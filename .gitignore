@@ -146,4 +146,8 @@ config.rst
 /.pydevproject
 
 ### custom ###
+0000_datasets/**
 0100_sources/step-by-step/resources
+0200_dev/adversarial-examples/resources
+0200_dev/convolutional-multilevel-training
+0400_training/convolutional-multilevel-training
